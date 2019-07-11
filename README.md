@@ -1,8 +1,8 @@
 A Simple Chatroom with Python and PyQt5, for Computer Network 's project.
 
 ## Screenshot
-![](https://github.com/river-li/chatroom/img/1.png)
-![](https://github.com/river-li/chatroom/img/2.png)
+![](https://raw.githubusercontent.com/river-li/chatroom/master/img/1.png)
+![](https://raw.githubusercontent.com/river-li/chatroom/master/img/2.png)
 
 ## Usage
 
